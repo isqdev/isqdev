@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis lacus a 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isqdev&hide_title=false&hide_rank=false&hide=stars&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=0,141E30,243B55&text_color=fff&title_color=50fa7b&icon_color=50fa7b&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isqdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&bg_color=0,141E30,243B55&text_color=fff&title_color=50fa7b&hide_border=true&order=2" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isqdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&bg_color=0,243B55,141E30&text_color=fff&title_color=50fa7b&hide_border=true&order=2" height="150" alt="languages graph"/>
     <br>
 </div>
 
