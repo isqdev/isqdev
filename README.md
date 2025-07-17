@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=47D2AB&center=true&width=435&lines=Hello+there;My+name+is+Isaque;I'm+a+software+engineer+student;I+like+web+development+and+AI;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=47D2AB&center=true&width=435&lines=Hello+there;my+name+is+Isaque;I'm+a+software+engineer+student;I+like+web+development+and+AI;welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis lacus a consequat tempor. Donec ut aliquet tellus. Nulla nibh magna, fermentum vel sapien ut, lacinia ullamcorper nisl. Suspendisse vehicula, quam quis finibus imperdiet, odio erat ullamcorper nulla, sed auctor sapien nunc at mauris. Sed eros mi, fermentum eu magna efficitur, luctus euismod sem. Aenean convallis aliquam lacus, a varius dolor rutrum ut. Suspendisse posuere eleifend lacus, et mattis justo rutrum eu.
@@ -27,9 +27,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis lacus a 
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,mysql,postgres,figma,photoshop" height="60" alt="typescript logo"  />
 </div>
 
-<h2 align="center">
-  Reach me
-</h2>
+<div align="center">
+  <h3>Reach me</h3>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="typescript logo"  href="https://www.linkedin.com/in/isqdias/" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="typescript logo" />
+
+</div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=isqdev&locale=en&mode=daily&background=243B55&currStreakNum=50fa7b&sideNums=f8f8f2&sideLabels=50fa7b&dates=ffffff&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
