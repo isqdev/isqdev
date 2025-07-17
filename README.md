@@ -29,20 +29,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis lacus a 
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,mysql,postgres,figma,photoshop" height="60" alt="typescript logo"  />
 </div>
 
-<div align="center">
-  <h3>Reach me</h3>
-  <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="typescript logo"  href="https://www.linkedin.com/in/isqdias/" />
-  <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="typescript logo" />
-
-</div>
+---
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=isqdev&locale=en&mode=daily&background=243B55&currStreakNum=50fa7b&sideNums=f8f8f2&sideLabels=50fa7b&dates=ffffff&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-### 
-
-###
-
-###
-
-
