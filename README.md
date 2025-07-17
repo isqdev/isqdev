@@ -2,7 +2,8 @@
 
 <div align="center">
   <h3>Languages, frameworks & libraries</h3>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java,c,cpp,react,next,tailwind,nodejs,spring" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,c,cpp" height="60" alt="typescript logo"  /><br>
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,nodejs,spring" height="60" alt="typescript logo"  />
 </div>
 
 <div align="center">
