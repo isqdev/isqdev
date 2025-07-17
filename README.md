@@ -1,8 +1,12 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 <div align="center">
-  <h3>Languages, frameworks & libraries</h3>
+  <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=ts,js,py,java,c,cpp" height="60" alt="typescript logo"  /><br>
+</div>
+
+<div align="center">
+  <h3>Frameworks & libraries</h3>
   <img src="https://skillicons.dev/icons?i=react,next,tailwind,nodejs,spring" height="60" alt="typescript logo"  />
 </div>
 
