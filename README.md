@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis lacus a 
 
 <div align="center">
   <h3>DevOps & more</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,mysql,postgres,figma,photoshop" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,mysql,postgres,vite,figma,photoshop" height="60" alt="typescript logo"  />
 </div>
 
 ---
