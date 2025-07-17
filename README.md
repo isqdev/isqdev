@@ -18,7 +18,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis lacus a 
 
 <div align="center">
   <h3>Languages, frameworks & libraries</h3>
+  <a href="https://www.linkedin.com/in/isqdias/">
   <img src="https://skillicons.dev/icons?i=ts,js,py,java,c,cpp" height="60" alt="typescript logo"  />
+  </a>
   <img src="https://skillicons.dev/icons?i=react,next,tailwind,nodejs,spring" height="60" alt="typescript logo"  />
 </div>
 
