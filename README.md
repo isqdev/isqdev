@@ -34,5 +34,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis lacus a 
 <img src="https://streak-stats.demolab.com?user=isqdev&locale=en&mode=daily&background=243B55&currStreakNum=50fa7b&sideNums=f8f8f2&sideLabels=50fa7b&dates=ffffff&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=isqdev)](https://github.com/anuraghazra/github-readme-stats)
 
