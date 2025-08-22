@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=47D2AB&center=true&width=435&lines=Hello+there;my+name+is+Isaque;I'm+a+software+engineer+student;I+like+web+development+and+AI;welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis lacus a consequat tempor. Donec ut aliquet tellus. Nulla nibh magna, fermentum vel sapien ut, lacinia ullamcorper nisl. Suspendisse vehicula, quam quis finibus imperdiet, odio erat ullamcorper nulla, sed auctor sapien nunc at mauris. Sed eros mi, fermentum eu magna efficitur, luctus euismod sem. Aenean convallis aliquam lacus, a varius dolor rutrum ut. Suspendisse posuere eleifend lacus, et mattis justo rutrum eu.
+Yo I'm Isaque, a brazillian guy passionate by coding and a software engineering student. I like to create new things, my main interests navigate between AI and front end development.
 </p>
 
 <div align="center">
